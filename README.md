@@ -7,14 +7,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=false&vCenter=true&width=600&lines=Robotics+%7C+AI+%7C+Control+Systems;MS+Student+in+Computer+Science;Building+adaptive+autonomous+systems)](https://git.io/typing-svg)
 
-🧑‍🔬 **I'm an early-career Computer Science researcher** fascinated by **Robotics**, **AI**, and **intelligent control systems**.  
+**I'm an early-career Computer Science researcher** fascinated by **Robotics**, **AI**, and **intelligent control systems**.  
 I love exploring how machines learn, move, and make decisions in **dynamic environments**.  
 
-🎯 My main focus:  
+My main focus:  
 **Underactuated robotic systems** · **Intelligent path planning** · **Learning‑based control**  
 → Building autonomous systems that are **adaptive**, **efficient**, and **safe** in the real world.
 
-📚 **Currently building my skills in:**  
+**Currently building my skills in:**  
 `Dynamic modeling` · `Control theory` · `Machine learning`  
 → Hands‑on projects in **PID control**, **motion planning**, and **reinforcement learning**.
 
