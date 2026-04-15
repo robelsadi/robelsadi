@@ -1,36 +1,21 @@
-<!-- ========== BANNER WITH PHOTO (Safe for GitHub) ========== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=00ff41&center=true&vCenter=true&width=800&lines=MD+ROBEL+MIA;CS+MSc+Student;Research+on+Robotic+Manipulation;Reinforcement+Learning+🤖;Computer+Vision" alt="Typing Banner" />
-</p>
+<!-- Header & Typing SVG -->
+<h1 align="center">
+  Hi there! I'm MD ROBEL MIA 👋
+</h1>
 
 <p align="center">
-  <img src="YOUR_PHOTO_URL" width="150" style="border-radius: 50%; border: 2px solid #00ff41;" />
-</p>
-
-<p align="center">
-  <strong style="color: #00ff41;">MD ROBEL MIA</strong><br/>
-  <em>AI Engineer | 2D/3D Computer Vision | Generative AI | MLOps</em>
-</p>
-
-<!-- ========== PROFILE VIEWS ========== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<!-- ========== SOCIAL BADGES ========== -->
-<p align="center">
-  <a href="https://linkedin.com/in/mdrobelmia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/mdrobelmia"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:mdrobelmia@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=2F80ED&center=true&vCenter=true&width=700&lines=Robotics+%26+AI+Researcher;Underactuated+Systems;Intelligent+Path+Planning;Learning-based+Control" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
 ### 👨🏻‍💻 Professional Profile
 
-I'm an AI Engineer passionate about building production-ready AI systems, specializing in 2D/3D computer vision, generative AI and MLOps. I love turning research ideas into practical products that solve real-world problems.
+I’m an early-career Computer Science researcher fascinated by Robotics, AI, and intelligent control systems. I love exploring how machines learn, move, and make decisions in dynamic environments. My main focus is on underactuated robotic systems, intelligent path planning, and learning-based control to create autonomous systems that are adaptive, efficient, and safe in real-world environments.
 
-**Current focus:** 3D computer vision and generative systems.
+**Current focus:** Building my skills in dynamic modeling, control theory, and machine learning while working on hands-on projects in PID control, motion planning, and reinforcement learning.
 
 ---
 
@@ -48,21 +33,18 @@ I'm an AI Engineer passionate about building production-ready AI systems, specia
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Robotics%20Operating%20System-22314E?style=for-the-badge&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/mlflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gazebo-00AEEF?style=for-the-badge&logo=gazebo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
 ---
@@ -80,22 +62,6 @@ I'm an AI Engineer passionate about building production-ready AI systems, specia
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
