@@ -9,7 +9,7 @@
 
 I’m an early-career Computer Science researcher fascinated by Robotics, AI, and intelligent control systems. I love exploring how machines learn, move, and make decisions in dynamic environments. My main focus is on underactuated robotic systems, intelligent path planning, and learning-based control to create autonomous systems that are adaptive, efficient, and safe in real-world environments.
 
-Current focus: Building my skills in dynamic modeling, control theory, and machine learning while working on hands-on projects in PID control, motion planning, and reinforcement learning.
+Currently, I am building my skills in dynamic modeling, control theory, and machine learning while working on hands-on projects in PID control, motion planning, and reinforcement learning.
 
 ⚡ **Beyond research** – I also bring experience in:  
 🔹 Digital marketing (SEO, B2B lead generation)  
