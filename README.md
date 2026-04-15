@@ -7,13 +7,21 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=false&vCenter=true&width=600&lines=Robotics+%7C+AI+%7C+Control+Systems;MS+Student+in+Computer+Science;Building+adaptive+autonomous+systems)](https://git.io/typing-svg)
 
-I’m an early-career Computer Science researcher fascinated by Robotics, AI, and intelligent control systems. I love exploring how machines learn, move, and make decisions in dynamic environments.
+🧑‍🔬 **I'm an early-career Computer Science researcher** fascinated by **Robotics**, **AI**, and **intelligent control systems**.  
+I love exploring how machines learn, move, and make decisions in **dynamic environments**.  
 
-My main focus is on underactuated robotic systems, intelligent path planning, and learning-based control to create autonomous systems that are adaptive, efficient, and safe in real-world environments.
+🎯 My main focus:  
+**Underactuated robotic systems** · **Intelligent path planning** · **Learning‑based control**  
+→ Building autonomous systems that are **adaptive**, **efficient**, and **safe** in the real world.
 
-I’m currently building my skills in dynamic modeling, control theory, and machine learning while working on hands-on projects in PID control, motion planning, and reinforcement learning.
+📚 **Currently building my skills in:**  
+`Dynamic modeling` · `Control theory` · `Machine learning`  
+→ Hands‑on projects in **PID control**, **motion planning**, and **reinforcement learning**.
 
-Beyond research, I have hands-on experience in digital marketing (SEO, B2B Lead Generation), Web Technologies, and Product Sourcing from China.
+⚡ **Beyond research** – I also bring experience in:  
+🔹 Digital marketing (SEO, B2B lead generation)  
+🔹 Web technologies  
+🔹 Product sourcing from China
 
 ---
 
@@ -32,9 +40,7 @@ Beyond research, I have hands-on experience in digital marketing (SEO, B2B Lead 
 ## 🔄 Currently working on
 
 - 🎓 **MS thesis**: Learning‑based control for underactuated robots (PyTorch + ROS 2)
-- 📚 **Reading**: *Nonlinear Control* by Khalil & *Reinforcement Learning* by Sutton & Barto
 - 🛠️ **Building**: A custom 2D path‑planning visualizer with A* and RRT*
-- 🏁 **Next goal**: Implement SAC (Soft Actor‑Critic) for a cart‑pole system
 
 ---
 
@@ -75,7 +81,7 @@ Beyond research, I have hands-on experience in digital marketing (SEO, B2B Lead 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robelsadi)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=_KF66A4AAAAJ)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/robelsadi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:csesadi3@.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:csesadi3@gmail.com)
 
 ---
 
