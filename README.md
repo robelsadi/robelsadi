@@ -3,9 +3,10 @@
   Hi there! I'm MD ROBEL MIA 👋
 </h1>
 
+<!-- ========== TYPING SVG BANNER ========== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=2F80ED&center=true&vCenter=true&width=600&lines=AI+Engineer;2D%2F3D+Computer+Vision;Generative+AI+%7C+MLOps;Turning+research+into+products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=2F80ED&center=true&vCenter=true&width=700&lines=CS+MSc+Student;Research+on+Robotic+Manipulation;Reinforcement+Learning+🤖;Computer+Vision" alt="Typing SVG" />
   </a>
 </p>
 
