@@ -5,18 +5,11 @@
 
 # Hi there, I'm MD ROBEL MIA 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=false&vCenter=true&width=600&lines=Robotics+%7C+AI+%7C+Control+Systems;MS+Student+in+Computer+Science;Building+adaptive+autonomous+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=false&vCenter=true&width=600&lines=MS+Student+in+Computer+Science;Building+adaptive+autonomous+systems;Robotics+%7C+AI+%7C+Control+Systems)](https://git.io/typing-svg)
 
-**I'm an early-career Computer Science researcher** fascinated by **Robotics**, **AI**, and **intelligent control systems**.  
-I love exploring how machines learn, move, and make decisions in **dynamic environments**.  
+I’m an early-career Computer Science researcher fascinated by Robotics, AI, and intelligent control systems. I love exploring how machines learn, move, and make decisions in dynamic environments. My main focus is on underactuated robotic systems, intelligent path planning, and learning-based control to create autonomous systems that are adaptive, efficient, and safe in real-world environments.
 
-My main focus:  
-**Underactuated robotic systems** · **Intelligent path planning** · **Learning‑based control**  
-→ Building autonomous systems that are **adaptive**, **efficient**, and **safe** in the real world.
-
-**Currently building my skills in:**  
-`Dynamic modeling` · `Control theory` · `Machine learning`  
-→ Hands‑on projects in **PID control**, **motion planning**, and **reinforcement learning**.
+Current focus: Building my skills in dynamic modeling, control theory, and machine learning while working on hands-on projects in PID control, motion planning, and reinforcement learning.
 
 ⚡ **Beyond research** – I also bring experience in:  
 🔹 Digital marketing (SEO, B2B lead generation)  
@@ -29,18 +22,11 @@ My main focus:
 
 | Project | Tech Stack | Key Contribution |
 |---------|------------|------------------|
-| [Underactuated Pendulum Control](#) *(add your link)* | Python, PyTorch, ROS | RL‑based swing‑up & stabilisation (SAC + PID) |
+| [Underactuated Pendulum Control](#) | Python, PyTorch, ROS | RL‑based swing‑up & stabilisation (SAC + PID) |
 | [Dynamic Path Planning for Mobile Robots](#) | C++, ROS, Gazebo | A* + DWA on a differential drive robot |
 | [Vision‑Based Object Tracking](#) | OpenCV, YOLOv8, Kalman Filters | Real‑time tracking with occlusion handling |
 
 > **Note:** Replace `#` with the actual links to your repositories or project reports.
-
----
-
-## 🔄 Currently working on
-
-- 🎓 **MS thesis**: Learning‑based control for underactuated robots (PyTorch + ROS 2)
-- 🛠️ **Building**: A custom 2D path‑planning visualizer with A* and RRT*
 
 ---
 
