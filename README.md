@@ -7,9 +7,8 @@ My main focus is on underactuated robotic systems, intelligent path planning, an
 
 I’m currently building my skills in dynamic modeling, control theory, and machine learning while working on hands-on projects in PID control, motion planning, and reinforcement learning.
 
-Beyond research, I have hands-on experience in digital marketing (SEO, B2B Lead Generation), Web Technologies, and Product Sourcing from China.
+Beyond research, I have hands-on experience in ** digital marketing (SEO, B2B Lead Generation), Web Technologies, and Product Sourcing from China **.
 
-Skills: Python / Java / C/C++ / Basic SQL / JS / HTML / CSS
 
 - 📫 How to reach me: csesadi3@gmail.com | imrobel27@gmail.com 
 
