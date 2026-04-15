@@ -66,8 +66,8 @@ I’m an early-career Computer Science researcher fascinated by Robotics, AI, an
 
 ---
 
-### ✍️ Quote of the day
+### 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true" />
 </p>
