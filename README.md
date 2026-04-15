@@ -8,7 +8,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=2F80ED&center=true&vCenter=true&width=600&lines=AI+Engineer;2D%2F3D+Computer+Vision;Generative+AI+%7C+MLOps;Turning+research+into+products" alt="Typing SVG" />
   </a>
 </p>
----
 
 <!-- ========== SOCIAL BADGES ========== -->
 <p align="center">
@@ -21,9 +20,9 @@
 
 ### 👨🏻‍💻 Professional Profile
 
-I'm an AI Engineer passionate about building production-ready AI systems, specializing in 2D/3D computer vision, generative AI and MLOps. I love turning research ideas into practical products that solve real-world problems.
+I’m an early-career Computer Science researcher fascinated by Robotics, AI, and intelligent control systems. I love exploring how machines learn, move, and make decisions in dynamic environments. My main focus is on underactuated robotic systems, intelligent path planning, and learning-based control to create autonomous systems that are adaptive, efficient, and safe in real-world environments.
 
-**Current focus:** 3D computer vision and generative systems.
+**Current focus:** Building my skills in dynamic modeling, control theory, and machine learning while working on hands-on projects in PID control, motion planning, and reinforcement learning.
 
 ---
 
