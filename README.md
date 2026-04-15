@@ -1,4 +1,4 @@
-### Hi there 👋, **ROBEL M. SADI**
+### Hi there! I'm **ROBEL M. SADI 👋**
 #### CS MSc Student  | Research on Robotic Manipulation | Reinforcement Learning 🤖 | Computer Vision
 I’m an early-career Computer Science researcher fascinated by Robotics, AI, and intelligent control systems. I love exploring how machines learn, move, and make decisions in dynamic environments.
 
