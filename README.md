@@ -1,29 +1,36 @@
-<!-- Header & Typing SVG -->
-<h1 align="center">
-  Hi there! I'm MD ROBEL MIA 👋
-</h1>
-
-<!-- ========== TYPING SVG BANNER ========== -->
+<!-- ========== BANNER WITH PHOTO (Safe for GitHub) ========== -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=2F80ED&center=true&vCenter=true&width=700&lines=CS+MSc+Student;Research+on+Robotic+Manipulation;Reinforcement+Learning+🤖;Computer+Vision" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=00ff41&center=true&vCenter=true&width=800&lines=MD+ROBEL+MIA;CS+MSc+Student;Research+on+Robotic+Manipulation;Reinforcement+Learning+🤖;Computer+Vision" alt="Typing Banner" />
+</p>
+
+<p align="center">
+  <img src="YOUR_PHOTO_URL" width="150" style="border-radius: 50%; border: 2px solid #00ff41;" />
+</p>
+
+<p align="center">
+  <strong style="color: #00ff41;">MD ROBEL MIA</strong><br/>
+  <em>AI Engineer | 2D/3D Computer Vision | Generative AI | MLOps</em>
+</p>
+
+<!-- ========== PROFILE VIEWS ========== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <!-- ========== SOCIAL BADGES ========== -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/robelsadi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/robel_sadi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:csesadi3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mdrobelmia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/mdrobelmia"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:mdrobelmia@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 👨🏻‍💻 Professional Profile
 
-I’m an early-career Computer Science researcher fascinated by Robotics, AI, and intelligent control systems. I love exploring how machines learn, move, and make decisions in dynamic environments. My main focus is on underactuated robotic systems, intelligent path planning, and learning-based control to create autonomous systems that are adaptive, efficient, and safe in real-world environments.
+I'm an AI Engineer passionate about building production-ready AI systems, specializing in 2D/3D computer vision, generative AI and MLOps. I love turning research ideas into practical products that solve real-world problems.
 
-**Current focus:** Building my skills in dynamic modeling, control theory, and machine learning while working on hands-on projects in PID control, motion planning, and reinforcement learning.
+**Current focus:** 3D computer vision and generative systems.
 
 ---
 
@@ -73,6 +80,22 @@ I’m an early-career Computer Science researcher fascinated by Robotics, AI, an
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
