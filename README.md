@@ -26,8 +26,6 @@ Current focus: Building my skills in dynamic modeling, control theory, and machi
 | [Dynamic Path Planning for Mobile Robots](#) | C++, ROS, Gazebo | A* + DWA on a differential drive robot |
 | [Vision‑Based Object Tracking](#) | OpenCV, YOLOv8, Kalman Filters | Real‑time tracking with occlusion handling |
 
-> **Note:** Replace `#` with the actual links to your repositories or project reports.
-
 ---
 
 ## 🧠 Technical Strengths
@@ -44,12 +42,21 @@ Current focus: Building my skills in dynamic modeling, control theory, and machi
 
 ## 💻 Tech Stack
 
+### Core Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+### Data Science & ML Tools
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
+![mlflow](https://img.shields.io/badge/mlflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 
 ---
 
@@ -71,4 +78,4 @@ Current focus: Building my skills in dynamic modeling, control theory, and machi
 
 ---
 
-*Thanks for visiting! Feel free to explore my repositories and reach out for collaboration on robotics or AI research.*
+*Thanks for visiting! Feel free to explore my repositories and reach out for collaboration on robotics and AI research or Product sourcing from China* 
