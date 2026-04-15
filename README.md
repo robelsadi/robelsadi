@@ -1,6 +1,15 @@
 <h1 align="center">Hi there! I'm ROBEL SADI 👋</h1>
 <h3 align="center">CS MSc Student | Research on Robotic Manipulation | Reinforcement Learning 🤖 | Computer Vision</h3>
 
+I’m an early-career Computer Science researcher fascinated by Robotics, AI, and intelligent control systems. I love exploring how machines learn, move, and make decisions in dynamic environments.
+
+My main focus is on underactuated robotic systems, intelligent path planning, and learning-based control to create autonomous systems that are adaptive, efficient, and safe in the real world.
+
+I’m currently building my skills in dynamic modeling, control theory, and machine learning while working on hands-on projects in PID control, motion planning, and reinforcement learning.
+
+Beyond research, I have hands-on experience in digital marketing (SEO, B2B Lead Generation), Web Technologies, and Product Sourcing from China.
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robelsadi&label=Profile%20views&color=0e75b6&style=flat" alt="robelsadi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robelsadi" alt="robelsadi" /></a> </p>
