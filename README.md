@@ -1,46 +1,20 @@
-<!-- ========== CUSTOM BANNER: MATRIX + GRADIENT BOX WITH PHOTO ========== -->
-<div align="center">
-  <div style="background: linear-gradient(135deg, #0a0f0a, #0a2a0a); padding: 30px; border-radius: 20px; border: 1px solid #00ff41; box-shadow: 0 0 20px rgba(0,255,65,0.3); width: 100%;">
-    <!-- Matrix effect background (pure CSS) -->
-    <style>
-      @keyframes matrix {
-        0% { text-shadow: 0 0 5px #00ff41; opacity: 0.2; }
-        100% { text-shadow: 0 0 20px #00ff41; opacity: 1; }
-      }
-      .matrix-text {
-        font-family: 'Courier New', monospace;
-        animation: matrix 1.5s infinite alternate;
-      }
-    </style>
-    
-    <!-- Profile Photo (Circular) -->
-    <img src="YOUR_PHOTO_URL" alt="MD ROBEL MIA" width="150" style="border-radius: 50%; border: 3px solid #00ff41; box-shadow: 0 0 20px #00ff41; margin-bottom: 20px;" />
-    
-    <!-- Name & Title -->
-    <h1 style="color: #00ff41; font-family: 'Courier New', monospace; margin: 10px 0;">
-      MD ROBEL MIA
-    </h1>
-    <p style="color: #b0ffb0; font-size: 1.2em; font-family: monospace;">
-      <span class="matrix-text">AI Engineer | 2D/3D Computer Vision | Generative AI | MLOps</span>
-    </p>
-    
-    <!-- Matrix rain characters (static but styled) -->
-    <p style="color: #00ff41; opacity: 0.7; font-family: monospace; font-size: 0.8em;">
-      01001101 01001111 01001110 01000101 01011001 00100000 01001001 01001110 00100000 01010100 01001000 01000101 00100000 01001101 01000001 01010100 01010010 01001001 01011000
-    </p>
-  </div>
-</div>
+<!-- Header & Typing SVG -->
+<h1 align="center">
+  Hi there! I'm MD ROBEL MIA 👋
+</h1>
 
-<!-- ========== PROFILE VIEWS ========== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=2F80ED&center=true&vCenter=true&width=600&lines=AI+Engineer;2D%2F3D+Computer+Vision;Generative+AI+%7C+MLOps;Turning+research+into+products" alt="Typing SVG" />
+  </a>
 </p>
+---
 
 <!-- ========== SOCIAL BADGES ========== -->
 <p align="center">
-  <a href="https://linkedin.com/in/mdrobelmia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/mdrobelmia"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:mdrobelmia@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/robelsadi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/robel_sadi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:csesadi3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -99,22 +73,6 @@ I'm an AI Engineer passionate about building production-ready AI systems, specia
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
