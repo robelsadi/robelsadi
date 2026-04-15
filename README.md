@@ -1,73 +1,76 @@
-<!-- Header & Typing SVG -->
-<h1 align="center">
-  Hi there! I'm MD ROBEL MIA 👋
-</h1>
+<!--
+  README.md for MD ROBEL MIA – MS student in Robotics & AI
+  Replace any `YOUR_...` placeholders with your actual info.
+-->
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=2F80ED&center=true&vCenter=true&width=700&lines=Robotics+%26+AI+Researcher;Underactuated+Systems;Intelligent+Path+Planning;Learning-based+Control" alt="Typing SVG" />
-  </a>
-</p>
+# Hi there, I'm MD ROBEL MIA 👋
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=false&vCenter=true&width=600&lines=Robotics+%7C+AI+%7C+Control+Systems;MS+Student+in+Computer+Science;Building+adaptive+autonomous+systems)](https://git.io/typing-svg)
 
-### 👨🏻‍💻 Professional Profile
-
-I’m an early-career Computer Science researcher fascinated by Robotics, AI, and intelligent control systems. I love exploring how machines learn, move, and make decisions in dynamic environments. My main focus is on underactuated robotic systems, intelligent path planning, and learning-based control to create autonomous systems that are adaptive, efficient, and safe in real-world environments.
-
-**Current focus:** Building my skills in dynamic modeling, control theory, and machine learning while working on hands-on projects in PID control, motion planning, and reinforcement learning.
+I’m an MS student passionate about **underactuated robotic systems**, **learning‑based control**, and **intelligent path planning**. My goal is to create autonomous systems that are adaptive, efficient, and safe in real‑world environments.
 
 ---
 
-### 🧠 Core Competencies
+## 🔧 Featured Projects
 
-- Computer Vision (classification, detection, segmentation, tracking)
-- LLMs & VLMs
-- Model Optimization & Quantization
-- Data Engineering & Pipelines
-- MLOps & Deployment (Docker, CI/CD, GCP)
+| Project | Tech Stack | Key Contribution |
+|---------|------------|------------------|
+| [Underactuated Pendulum Control](#) *(add your link)* | Python, PyTorch, ROS | RL‑based swing‑up & stabilisation (SAC + PID) |
+| [Dynamic Path Planning for Mobile Robots](#) | C++, ROS, Gazebo | A* + DWA on a differential drive robot |
+| [Vision‑Based Object Tracking](#) | OpenCV, YOLOv8, Kalman Filters | Real‑time tracking with occlusion handling |
 
----
-
-### 💻 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Robotics%20Operating%20System-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gazebo-00AEEF?style=for-the-badge&logo=gazebo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-</p>
+> **Note:** Replace `#` with the actual links to your repositories or project reports.
 
 ---
 
-### 📊 GitHub Stats
+## 🔄 Currently working on
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robelsadi&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robelsadi&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robelsadi&theme=radical&hide_border=true" />
-</p>
+- 🎓 **MS thesis**: Learning‑based control for underactuated robots (PyTorch + ROS 2)
+- 📚 **Reading**: *Nonlinear Control* by Khalil & *Reinforcement Learning* by Sutton & Barto
+- 🛠️ **Building**: A custom 2D path‑planning visualizer with A* and RRT*
+- 🏁 **Next goal**: Implement SAC (Soft Actor‑Critic) for a cart‑pole system
 
 ---
 
-### 📈 GitHub Activity Graph
+## 🧠 Technical Strengths
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robelsadi&theme=react-dark&hide_border=true" />
-</p>
+| **Robotics & Control** | **Machine Learning & Tools** |
+|------------------------|------------------------------|
+| ROS / ROS 2            | PyTorch / TensorFlow         |
+| Gazebo / RViz          | OpenCV                       |
+| PID, LQR, MPC          | Scikit‑learn / Pandas        |
+| Path planning (A*, RRT, DWA) | Docker, Git, Linux     |
+| Kinematics & dynamics  | Weights & Biases / MLflow    |
+
+---
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## 📈 GitHub Activity
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robelsadi&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robelsadi&theme=radical) |
+| --- | --- |
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=robelsadi&theme=react-dark)
+
+---
+
+## 📫 Let’s connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
+
+---
+
+*Thanks for visiting! Feel free to explore my repositories and reach out for collaboration on robotics or AI research.*
