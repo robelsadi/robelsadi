@@ -52,8 +52,8 @@ I’m an early-career Computer Science researcher fascinated by Robotics, AI, an
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robelsadiE&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robelsadiE&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robelsadi&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robelsadi&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
