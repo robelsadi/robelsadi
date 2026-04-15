@@ -7,7 +7,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=false&vCenter=true&width=600&lines=Robotics+%7C+AI+%7C+Control+Systems;MS+Student+in+Computer+Science;Building+adaptive+autonomous+systems)](https://git.io/typing-svg)
 
-I’m an MS student passionate about **underactuated robotic systems**, **learning‑based control**, and **intelligent path planning**. My goal is to create autonomous systems that are adaptive, efficient, and safe in real‑world environments.
+I’m an early-career Computer Science researcher fascinated by Robotics, AI, and intelligent control systems. I love exploring how machines learn, move, and make decisions in dynamic environments.
+
+My main focus is on underactuated robotic systems, intelligent path planning, and learning-based control to create autonomous systems that are adaptive, efficient, and safe in real-world environments.
+
+I’m currently building my skills in dynamic modeling, control theory, and machine learning while working on hands-on projects in PID control, motion planning, and reinforcement learning.
+
+Beyond research, I have hands-on experience in digital marketing (SEO, B2B Lead Generation), Web Technologies, and Product Sourcing from China.
 
 ---
 
@@ -66,10 +72,10 @@ I’m an MS student passionate about **underactuated robotic systems**, **learni
 
 ## 📫 Let’s connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robelsadi)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=_KF66A4AAAAJ)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/robelsadi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:csesadi3@.com)
 
 ---
 
