@@ -1,5 +1,6 @@
 ### Hi there! I'm **ROBEL M. SADI 👋**
-#### CS MSc Student  | Research on Robotic Manipulation | Reinforcement Learning 🤖 | Computer Vision
+#### CS MSc Student  | Research on Robotic Manipulation | Reinforcement Learning | Computer Vision
+
 I’m an early-career Computer Science researcher fascinated by Robotics, AI, and intelligent control systems. I love exploring how machines learn, move, and make decisions in dynamic environments.
 
 My main focus is on underactuated robotic systems, intelligent path planning, and learning-based control to create autonomous systems that are adaptive, efficient, and safe in the real world.
